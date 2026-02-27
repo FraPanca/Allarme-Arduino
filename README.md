@@ -10,6 +10,7 @@ Componenti necessari:
   - LCD1602 Module (with pin header)
   - Ultrasonic sensor
   - Passive Buzzer
+  - RGB Led
   - Button
   - 6 resistor 220 Ohm
   - Breadboard
