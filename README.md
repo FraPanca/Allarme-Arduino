@@ -48,7 +48,7 @@ Allarme-Arduino/
 
 ### Note
 
-Progetto didattico/personale con Arduino UNO R3. Il debounce del pulsante è realizzato tramite un ciclo bloccante (`while`) che attende il rilascio del tasto, mettendo in pausa il resto della logica durante la pressione.
+Progetto personale con Arduino UNO R3. Il debounce del pulsante è realizzato tramite un ciclo bloccante (`while`) che attende il rilascio del tasto, mettendo in pausa il resto della logica durante la pressione.
 
 ### Licenza
 
@@ -104,7 +104,7 @@ Allarme-Arduino/
 
 ### Notes
 
-Educational/personal project with an Arduino UNO R3. Button debouncing is implemented with a blocking `while` loop that waits for the key release, pausing the rest of the logic while the button is held down.
+Personal project with an Arduino UNO R3. Button debouncing is implemented with a blocking `while` loop that waits for the key release, pausing the rest of the logic while the button is held down.
 
 ### License
 
